@@ -1,1 +1,266 @@
-Cocktails
+COCKTAIL RECIPE GUIDE
+=====================
+
+PART ONE -- THE HOUSE RULES
+---------------------------
+
+Ratios      Every classic cocktail is a ratio. Memorize the ratio, not
+            the recipe, and you can build anything.
+            Spirit-forward    2 : 1        (spirit : sour)
+            Sours            2 : 1 : 1    (spirit : sour : sweet)
+            Collins/Romance  2 : 1 : 1 : 1 (spirit : sour : sweet : soda)
+            Old Fashioned     2 : 1 : dash (spirit : sweet : bitters)
+
+Ice         Big cubes, less dilution, slower melt. Use the good ice you
+            would drink. Never use salty ice or ice that has wrapped
+            around a bottle cap.
+
+Dilution    Stir with a bar spoon, 20-30 rotations, ice to the rim.
+            Shake hard with ice only -- dry ice and cracked ice is a
+            cocktail ice machine, not a home bar.
+
+Strain      Fine strain for a clean glass, coarse for a textured drink.
+            Double-strain through a fine mesh to catch pulp and ice
+            shards. Silk straining is the last 5% of polish.
+
+Salt rim    2 parts salt to 1 part sugar is the classic proportion. Cut
+            a grapefruit half, run a lime wedge on the rim, dip, shake
+            the shaker twice to clear excess. Dry it, do not wipe it.
+
+Bitters     Bitters are seasoning, not sweetness. 2-4 dashes is normal.
+            A full dash is roughly 1/8 oz. If a recipe asks for more,
+            it usually means it wants something else.
+
+Ice for the bath   2 parts ice : 1 part water for chilling glassware.
+
+Stock the bar     Citrus (real lemons and limes, bottled is a compromise),
+            simple syrup, grenadine, Angostura bitters, soda water,
+            cola, dry vermouth, strong blender ice, decent whiskey,
+            London dry gin, aged rum, Campari, vermouth di Torino.
+
+PART TWO -- THE FIVE CLASSIC FAMILIES
+-----------------------------------
+
+FAMILY 1: OLD WORLD / STRENGTH (stirred, spirit-forward)
+
+1. OLD FASHIONED
+    Glass:  Rocks, 2-3 large cubes
+    Ice:    1 large cube
+    Build:  2 oz bourbon or rye, 1/2 oz rich simple syrup (2:1), 2-3
+           dashes Angostura bitters, 2-3 dashes orange bitters
+    Stir:   25 rotations
+    Garnish: One wide orange peel, expressed and dropped.
+    Ratio:  2 : 1 : bitters. Whiskey-forward, nothing hiding.
+    The original recipe was simply whiskey + sugar + bitters -- all the
+    citrus and sugar in circulation then came from bitters and syrup.
+
+2. MANHATTAN
+    Glass:  Cocktail or coupe, chilled
+    Ice:    Stirring ice
+    Build:  2 oz rye (or bourbon), 1 oz sweet vermouth (or 2 oz dry),
+           2 dashes Angostura bitters
+    Stir:   30 rotations, strain
+    Garnish: Cherry. Maraschino, not a bin cherry, not a luxardo
+           unless you are deliberately making a different drink.
+    Variants: Perfect Manhattan = equal parts dry and sweet vermouth.
+           Rob Roy = Scotch instead of rye.
+
+3. NEGRONI
+    Glass:  Rocks, large cube
+    Build:  1 oz gin, 1 oz Campari, 1 oz sweet vermouth
+    Stir:   25 rotations
+    Garnish: Orange peel
+    Equal parts. No recipe. The ratio is the drink.
+    Variants: Americano = soda and orange, gin optional.
+              Boulevardier = whiskey replacing gin.
+
+4. MARTINI
+    Glass:  Martini or coupe, well chilled
+    Ratio:  5:1 or 4:1 gin to dry vermouth. Up to 2:1 (contemporary)
+    Shake:  12-15 seconds hard with ice -- this is the only classic
+           that is shaken, because the vermouth emulsion is the point.
+    Strain: Fine strain, no ice
+    Garnish: Lemon twist, or three olive skewered for dirty-style
+           olive brine. Never both.
+    Frozen Martini = blended with ice, "up" in the glass, crinkle or
+           none depending on how long you blend it.
+
+5. MANHATTAN DRY / SAZERAC
+    Sazerac, glass: chilled rocks, no ice
+    Build:  2 oz rye, 1/4 oz sugar cube, 3 dashes Peychaud's
+           bitters, 2 dashes absinthe (rinse the glass)
+    Stir:   30 rotations
+    Method: Roll a lemon peel over the surface, squeeze to release
+           oils, drop in. Discard the lemon.
+    The only classic built by muddling a sugar cube with bitters.
+
+FAMILY 2: THE SOURS (citrus and sweet, balanced, shaken)
+
+6. DAIQUIRI
+    Glass:  Chilled coupe. NEVER ice in the glass.
+    Ratio:  2 oz white rum, 3/4 oz lime juice, 3/4 oz simple syrup
+    Shake:  12 seconds hard
+    Strain: Fine
+    Garnish: None. Any garnish is a different drink.
+    The lime juice is the ingredient. If it is sweet, it is a
+    pineapple daiquiri and you should call it one.
+    Daiquiri is the rum drink that proves a bartender can make three
+    things from a fridge.
+
+7. MARGARITA
+    Glass:  Chilled coupe or salt-rimmed rocks
+    Ratio:  2 oz blanco tequila, 3/4 oz lime, 3/4 oz orange liqueur,
+           optional 1/2 oz agave nectar
+    Shake:  12 seconds
+    Variants: Tommy Margarita = omit orange liqueur.
+              Cadiz = mezcal, rocks glass, no salt.
+              Salt on the rim only; sugar rim = sweet and wrong.
+
+8. WHISKEY SOUR
+    Glass:  Rocks with ice, or coupe up with no ice
+    Build:  2 oz bourbon, 3/4 oz lemon, 3/4 oz simple syrup,
+           3 dashes Peychaud's bitters
+    Shake:  12 seconds -- hold back half the foam with a fine strain
+    Garnish: Lemon coin, or 2-3 drops of bitters in the foam (a "heart")
+    Variants: Amaretto sour = amaretto float.
+
+9. GIMLET
+    Ratio:  2 oz gin, 3/4 oz lime, 3/4 oz simple syrup
+    Shake:  12 seconds, fine strain, coupe
+    Elegant, dry, sour, and about 100 years simpler than most drinks.
+
+10. NEW YORK SOUR
+    Glass:  Rocks, no ice (or a large cube)
+    Build:  2 oz rye, 3/4 oz lemon, 1/2 oz sugar, 1/2 oz red wine
+           float, 3 dashes Peychaud's
+    Shake:  Everything except the wine, 12 seconds
+    Float:  Pour the wine slowly down the side of a bar spoon
+    The egg white version: 3/4 oz aquafaba or egg white, dry shake
+           first to emulsify, then shake with ice.
+
+FAMILY 3: HIGHBALLS (long, cold, built in the glass)
+
+11. HIGHBALL
+    Glass:  Collins or highball, ice to the top, tall and narrow
+    Build:  2 oz spirit, 4-6 oz soda or mixer, built over ice,
+           stir once with a bar spoon to lift the spirit
+    Note:   Tall narrow glass keeps carbonation. A tumbler goes flat.
+    The single most useful drink template in the world: pick a spirit,
+    pick a mixer, 2 to 4 oz spirit, 4 to 6 oz mixer, ice.
+
+12. GIN & TONIC
+    2 oz London dry gin, 4 oz tonic, ice, one lime wedge
+    Garnish: Lime wheel, or cucumber ribbon for a gin botanical blend
+    Quality tonic has real quinine bite and visible bubbles. Cheap
+    flat tonic is the only real failure point.
+
+13. MOSCOW MULE
+    Glass:  Copper mug (a tall glass works if you care less)
+    Build:  2 oz vodka, 3/4 oz lime, ginger beer to the top
+    Topping:  Float 1 oz dark rum or a splash of crème de cassis for
+           color -- this is not traditional, so do it quietly.
+
+14. DARK 'N' STORMY
+    Replace vodka with 2 oz rum. That is the entire difference between
+    a Moscow Mule and a Dark 'n' Stormy. Trademark issue, not
+    flavor issue. The ginger beer floats because of the rum's density.
+
+15. TOM COLLINS
+    2 oz gin, 3/4 oz lemon, 3/4 oz simple syrup, 3 oz soda water
+    Tall Collins glass, ice, lemon wheel. A gin sour lengthened
+    with soda. Built in the glass, not the shaker.
+
+16. WHISKEY HIGHBALL
+    2 oz bourbon, 4-6 oz soda water, ice, orange or lemon twist
+    Over ice is mandatory. Up, with no ice, is a different drink.
+
+PART FOUR -- MODERN CLASSES
+---------------------------
+
+17. OLD FASHIONED, SPECS
+     Float 2-3 dashes of bitters on the surface, do not stir them in.
+     The bitters sit on the top and you taste them first and last.
+
+18. ESPRESSO MARTINI
+     Glass:  Nick & Nora or coupe
+     Build:  1.5 oz vodka, 1 oz espresso (cooled!), 1/2 oz coffee
+            liqueur, 1/4 oz simple syrup
+     Shake:  10 seconds, hard
+     Garnish: 3 coffee beans
+     Warm espresso will melt the ice in three seconds. Cool it first.
+     The classic ratios are 2 oz vodka to 1 oz espresso. Taste the
+     crema before shaking.
+
+19. PAPER PLANE
+     Glass:  Coupette, no ice
+     Build:  Equal parts bourbon, Aperol, amaro nonino, lemon juice
+     Shake:  8 seconds
+     Garnish: None, or a dehydrated lemon wheel
+     All four ingredients are equal. An amaro-forward Old Fashioned
+     riff that lives in the sour family.
+
+20. CORONA MARGARITA
+     Glass:  Rocks, salt rim, large cube
+     Build:  1.5 oz tequila, 3/4 oz lime, 3/4 oz honey syrup (or 1 oz
+            pineapple juice), 2 oz corona
+     Shake:  Everything but the beer, 10 seconds
+     Top:    2 oz cold corona poured down the side of a jigger
+     Never put beer in the shaker -- the carbonation dies and the
+     drink goes flat and warm.
+
+21. BLUEBERRY LEMONADE
+     Glass:  Collins, over ice
+     Build:  2 oz gin or vodka, 3/4 oz lemon, 3/4 oz simple syrup,
+            3/4 oz blueberry puree, splash of soda
+     Shake:  Sugar and lemon and puree first, 8 seconds, then top
+            with soda in the glass.
+
+22. GOLDEN MILK / TURMERIC LATTE COCKTAIL
+     Glass:  Rocks or mug
+     Build:  2 oz rum, 1 oz honey syrup, 1/2 oz lemon, 2 oz oat milk,
+            1/4 tsp turmeric, pinch of black pepper (the pepper is
+            not optional -- it is how the turmeric absorbs)
+     Heat:  Warm the milk and spices, do not boil.
+
+23. PAPAYA MEZCAL PUNCH
+     Glass:  Goblet or rocks
+     Build:  2 oz mezcal, 1 oz papaya puree, 3/4 oz lime, 3/4 oz
+            honey, 1 oz soda
+     Shake:  10 seconds, pour over crushed ice
+     Garnish: Tajin or chile salt rim, dehydrated chile
+
+24. SEASONAL
+     Cucumber basil gin, blood orange whiskey, rosemary rum,
+     cranberry vodka, ginger-lemon bourbon, honey-fig amaro drinks.
+     The rule: seasonal cocktails still obey a ratio. Use it.
+
+PART FIVE -- HOW TO BUILD A DRINK YOURSELF
+------------------------------------------
+
+Ice to fill     Fill the shaker 2/3 with ice.
+Order          Spirits first, then citrus, then sugar, then anything
+               carbonated last. Citrus before sugar prevents
+               unnecessary dilution.
+Shake          10-15 seconds. Not 5, not 30. Your arms will know.
+Strain         Fine strain for a clear drink. Always pour through.
+Dilution       A properly built drink is 20-25% water by volume from
+               shaking. That dilution is what makes it soft.
+
+For a party    Punch bowl: 1 part spirit, 3 parts juice, 1 part citrus,
+               4 parts water or soda, ice in the bowl to keep it cold.
+               Never serve a party in the shaker.
+
+Zero-proof     Non-alcoholic aperitif amaro, verjus, or NA spirits are
+               now good enough that nobody has to drink a mocktail.
+               Use 0-proof amaro, 1 oz NA spirit, 3/4 oz verjus.
+
+Glasses            Martini/coupe for sours (no ice, chilled glass),
+                    rocks for spirit-forward (big cube), Collins/highball
+                    for anything long, wine glass for aromatized drinks.
+
+Garnish and what it does
+       Citrus peel  Express the oils over the surface. Aromatics.
+       Coin         A visual cue and a squeeze of juice on the rim.
+       Cherry       Sweetness and tradition. Manners.
+       Skewer       Say it is a martini instead of a dirty martini.
+       Bitters      Grape brandies, amaro, orange liqueur, mint.
